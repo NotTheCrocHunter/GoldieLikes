@@ -1,0 +1,23 @@
+# Node.js dependencies (if using Node for development)
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignoring settings.json
+settings.json
